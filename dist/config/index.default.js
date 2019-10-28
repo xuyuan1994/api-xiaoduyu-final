@@ -15,12 +15,12 @@ let config = {
     // 默认用户头像
     defaultAvatar: '//img.xiaoduyu.com/default_avatar.jpg',
     // mongodb配置 [必填]
-    mongodbURI: 'mongodb://localhost:27017/xiaoduyu',
+    mongodbURI: 'mongodb+srv://rex1994:1994ygycsyzf@cluster0-r1vfs.mongodb.net/test?retryWrites=true&w=majority',
     host: 'localhost',
     // 端口 [必填]
     port: 9002,
     // 网站的域名 [必填]
-    domain: 'https://api.xiaoduyu.com',
+    domain: 'https://ddfantasy.com',
     // 第三方发送邮件服务
     email: {
         // SendCloud配置信息，用于发送邮件 [必填, 否则将不能发送邮件]
