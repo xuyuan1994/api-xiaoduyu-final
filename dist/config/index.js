@@ -20,15 +20,15 @@ let config = {
     // 端口 [必填]
     port: 9002,
     // 网站的域名 [必填]
-    domain: 'https://api.xiaoduyu.com',
+    domain: 'https://159.89.133.159/.com',
     // 第三方发送邮件服务
     email: {
         // SendCloud配置信息，用于发送邮件 [必填, 否则将不能发送邮件]
         // https://sendcloud.sohu.com
         sendCloud: {
-            from: '',
-            apiUser: '',
-            apiKey: ''
+            from: 'Wm02U9JzmjT7c3vcTYWRXOC1witwug90.sendcloud.org',
+            apiUser: 'rex1994_test_Bgdsaw',
+            apiKey: '这里是您手动生成的API_KEY'
         }
     },
     // 第三方登录 [必填, 否则将不支持QQ、微博登录]
