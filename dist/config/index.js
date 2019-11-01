@@ -26,9 +26,9 @@ let config = {
         // SendCloud配置信息，用于发送邮件 [必填, 否则将不能发送邮件]
         // https://sendcloud.sohu.com
         sendCloud: {
-            from: 'Wm02U9JzmjT7c3vcTYWRXOC1witwug90.sendcloud.org',
+            from: 'xuyuan02038898080@gmail.com',
             apiUser: 'rex1994_test_Bgdsaw',
-            apiKey: '这里是您手动生成的API_KEY'
+            apiKey: '8yu5GkTGaNnFW0UF'
         }
     },
     // 第三方登录 [必填, 否则将不支持QQ、微博登录]
