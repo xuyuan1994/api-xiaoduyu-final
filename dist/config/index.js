@@ -20,7 +20,7 @@ let config = {
     // 端口 [必填]
     port: 9002,
     // 网站的域名 [必填]
-    domain: 'https://ddfantasies.com',
+    domain: 'http://api.ddfantasies.com',
     // 第三方发送邮件服务
     email: {
         // SendCloud配置信息，用于发送邮件 [必填, 否则将不能发送邮件]
