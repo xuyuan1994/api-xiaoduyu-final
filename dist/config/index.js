@@ -16,7 +16,7 @@ let config = {
     defaultAvatar: '//img.xiaoduyu.com/default_avatar.jpg',
     // mongodb配置 [必填]
     mongodbURI: 'mongodb+srv://rex1994:1994ygycsyzf@cluster0-r1vfs.mongodb.net/test?retryWrites=true&w=majority',
-    host: 'ddfantasies.com',
+    host: 'localhost',
     // 端口 [必填]
     port: 9002,
     // 网站的域名 [必填]
